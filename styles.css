@@ -23,3 +23,9 @@ a {
 a:hover {
     color: var(--c-orange);
 }
+
+.subsection-border {
+    border-style: solid;
+    border-width: 3px;
+    border-color: var(--c-cyan);
+}
