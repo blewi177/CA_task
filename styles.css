@@ -15,3 +15,7 @@ footer {
 main {
     color: var(--base-font-color);
 }
+
+a {
+    color: var(--c-magenta);
+}
