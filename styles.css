@@ -4,7 +4,9 @@ body {
 
 header {
     background-color: var(--c-background-highlights);
-    color: var(--base-font-color);
+    color: var(--c-yellow);
+    text-align: center;
+    font-size: 1.5em;
 }
 
 footer {
