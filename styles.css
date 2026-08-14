@@ -58,8 +58,23 @@ nav {
 }
 
 .article-container {
-    flex: 6; 
-    
+    flex: 6;   
+}
+
+.article-container h2 {
+    padding-top: 50px;
+}
+
+.article-container h3 {
+    padding-top: 50px;
+}
+
+.article-container a {
+    color: var(--c-magenta);
+}
+
+.article-container a:hover {
+    color: var(--c-orange);
 }
 
 .aside-container {
