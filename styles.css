@@ -51,3 +51,20 @@ a:hover {
     padding-left: 50px;
     padding-right:50px;
 }
+
+.page-container {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.article-container {
+    flex: 6; 
+    
+}
+
+.aside-container {
+    flex: 1;
+    gap: 20px;
+    padding-right: 50px;
+}
